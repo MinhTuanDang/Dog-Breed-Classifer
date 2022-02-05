@@ -7,7 +7,6 @@
 
 ## Project Overview
 
-Welcome to the Convolutional Neural Networks (CNN) project in the Machine Learning Engineer Nanodegree!
 This project shows how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm identifies an estimate of the canine’s breed.  If supplied an image of a human, the resembling dog breed is shown.  
 
 ![Sample Output][image1]
@@ -24,10 +23,4 @@ Pytorch, OpenCV, numpy, matplotlib, glob, tqdm, PIL, torchvision, os
 ### Software
 Jupyter notebook, Python 3
 
-## Project Submission
 
-Your submission should consist of the github link to your repository.  Your repository should contain:
-- The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
-- An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
-
-Please do __NOT__ include any of the project data sets provided in the `dogImages/` or `lfw/` folders.
